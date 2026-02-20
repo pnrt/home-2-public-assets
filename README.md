@@ -20,11 +20,14 @@ Download: https://play.google.com/store/apps/details?id=com.pankajkumarrout.home
 ---
 
 ## 📸 Screenshots
-![App UI](screen_10_8.png)
-![App UI](screen_20.png)
-![App UI](screen_30.png)
-![App UI](screen_40.png)
-![App UI](screen_50.png)
+<p align="center">
+  <img src="screen_10_8.png" width="250">
+  <img src="screen_20.png" width="250">
+  <img src="screen_30.png" width="250">
+  <img src="screen_40.png" width="250">
+  <img src="screen_50.png" width="250">
+</p>
+
 ---
 
 ## ⚙️ How to Use
